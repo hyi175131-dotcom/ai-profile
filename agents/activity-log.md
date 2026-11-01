@@ -8,7 +8,6 @@
 |------|-----------|------|------|------|
 | 2026-11-01 | Kimi (Kimi Work) | 创建私有仓库并初始化档案结构 | github.com/hyi175131-dotcom/ai-profile | ✅ 成功 |
 | 2026-11-01 | Kimi (Kimi Work) | 写入职业方向（网站开发）与常用 AI（Kimi/ChatGPT/Claude） | profile.json, preferences.md | ✅ 成功 |
-| 2026-11-01 | 本人（网页操作） | 仓库转为公开 | ai-profile 仓库可见性 | ✅ 成功 |
-| 2026-11-01 | Kimi (Kimi Work) | 同步 profile.json 可见性字段为 public | profile.json | ✅ 成功 |
+| 2026-11-01 | 本人（网页操作） | 尝试将仓库转为公开 | ai-profile 仓库可见性 | ⚠️ 未生效，仍为私有 |
 
 <!-- 新日志追加在表格末尾 -->
