@@ -32,9 +32,9 @@
     "notes": "多平台 AI 使用者，本档案用于跨平台同步个人上下文。"
   },
   "privacy": {
-    "repoVisibility": "private",
+    "repoVisibility": "public",
     "neverStore": ["passwords", "api-keys", "tokens", "id-numbers", "payment-info"],
-    "sharePolicy": "公开或授权给其他 AI 前，须由本人确认。"
+    "sharePolicy": "仓库公开可读；敏感信息依 neverStore 红线绝不上库。"
   },
   "pointers": {
     "llmsTxt": "llms.txt",
