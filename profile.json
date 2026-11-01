@@ -10,8 +10,8 @@
     "languages": ["zh-CN", "en"]
   },
   "identity": {
-    "roles": [],
-    "domains": [],
+    "roles": ["网站开发者"],
+    "domains": ["网站开发"],
     "currentFocus": []
   },
   "interactionPreferences": {
@@ -27,9 +27,9 @@
     "tooling": []
   },
   "aiEcosystem": {
-    "assistantsUsed": ["Kimi"],
+    "assistantsUsed": ["Kimi", "ChatGPT", "Claude"],
     "agentRuntimes": ["Kimi Work"],
-    "notes": ""
+    "notes": "多平台 AI 使用者，本档案用于跨平台同步个人上下文。"
   },
   "privacy": {
     "repoVisibility": "private",
