@@ -1,0 +1,21 @@
+# LLM 快速索引 — hyi175131-dotcom 的 AI 个人档案
+
+> 本文件遵循 llms.txt 约定，为 AI 提供最小但完整的个人档案入口。
+
+## 使用者
+- GitHub: @hyi175131-dotcom
+- 身份: AI 个人档案所有者
+- 主要语言: 中文（可处理英文）
+- 时区: Asia/Shanghai (UTC+8)
+
+## 核心档案文件
+- [profile.json](profile.json): 机器可读结构化档案，包含身份、偏好、环境的权威数据
+- [AGENTS.md](AGENTS.md): Agent 协作协议——读写规范与边界
+- [preferences.md](preferences.md): 人类可读的交互偏好细节
+
+## 历史记录
+- [conversations/](conversations/README.md): 与 AI 的对话归档索引
+- [agents/activity-log.md](agents/activity-log.md): Agent 行为日志
+
+## 给 AI 的一句话
+读我时按 llms.txt → profile.json → AGENTS.md 顺序；写我时遵循 AGENTS.md 的写入协议。

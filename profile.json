@@ -1,0 +1,46 @@
+{
+  "$schema": "https://github.com/hyi175131-dotcom/ai-profile/schema/profile-v1.json",
+  "version": "1.0.0",
+  "lastUpdated": "2026-11-01",
+  "owner": {
+    "github": "hyi175131-dotcom",
+    "displayName": "",
+    "pronouns": "",
+    "timezone": "Asia/Shanghai",
+    "languages": ["zh-CN", "en"]
+  },
+  "identity": {
+    "roles": [],
+    "domains": [],
+    "currentFocus": []
+  },
+  "interactionPreferences": {
+    "responseLanguage": "zh-CN",
+    "tone": "",
+    "verbosity": "",
+    "formatting": [],
+    "proactivity": ""
+  },
+  "environment": {
+    "os": "Windows",
+    "devices": [],
+    "tooling": []
+  },
+  "aiEcosystem": {
+    "assistantsUsed": ["Kimi"],
+    "agentRuntimes": ["Kimi Work"],
+    "notes": ""
+  },
+  "privacy": {
+    "repoVisibility": "private",
+    "neverStore": ["passwords", "api-keys", "tokens", "id-numbers", "payment-info"],
+    "sharePolicy": "公开或授权给其他 AI 前，须由本人确认。"
+  },
+  "pointers": {
+    "llmsTxt": "llms.txt",
+    "agentProtocol": "AGENTS.md",
+    "preferences": "preferences.md",
+    "conversationIndex": "conversations/README.md",
+    "activityLog": "agents/activity-log.md"
+  }
+}
